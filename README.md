@@ -1,7 +1,7 @@
 # Implementation of an iterator in a Сlass that takes array as an argument
 
 ---
-[![Build status](https://ci.appveyor.com/api/projects/status/yj224iae4k1042i8?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-oop)
+[![Build status](https://ci.appveyor.com/api/projects/status/vilxs7a0c9av745s?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-iterators)
 
 ### Описание
 
